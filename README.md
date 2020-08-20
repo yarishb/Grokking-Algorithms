@@ -1,3 +1,4 @@
 <h1> <i>"Grocking Algorithms"</i> book learning experience </h1>
-
-<h1 style="text-align:center">Big O Time Complexity</h1>
+<hr />
+<h1>Big O Time Complexity</h1>
+<img src = "https://danielmiessler.com/images/big-o-chart-tutorial-bazar-aymptotic-notations-1.png"/>
