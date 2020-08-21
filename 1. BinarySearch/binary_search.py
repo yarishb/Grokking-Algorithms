@@ -3,7 +3,7 @@ def binary_search(arr, num):
      end = len(arr) -1
 
      while start <= end:
-          mid = (start + end)
+          mid = (start + end) // 2
           guess = arr[mid]
 
           if guess == num:
@@ -11,7 +11,7 @@ def binary_search(arr, num):
           if guess > num:
                end = mid - 1
           else:
-               start = mid - 1
+               start = mid + 1
           
      return None
 
